@@ -1,0 +1,27 @@
+{
+  "name": "react-dom-common-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssac/react-dom-common-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-dom",
+    "hooks"
+  ],
+  "author": "ssac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssac/react-dom-common-hooks/issues"
+  },
+  "homepage": "https://github.com/ssac/react-dom-common-hooks#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
